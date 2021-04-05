@@ -1,1 +1,2 @@
-# KodluyoruzFrontEnd101
+# Kodluyoruz-patika-odev
+
